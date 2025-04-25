@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 
 export default function HealthInformationSystem() {
   // Backend API URL
-  const API_URL = "http://127.0.0.1:5000";
+  const API_URL = "https://health-system-backend.onrender.com";
   
   // State management
   const [programs, setPrograms] = useState([]);
