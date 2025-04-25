@@ -30,7 +30,7 @@ As a healthcare administrator:
 
 ## API Endpoints
 
-The base URL for your backend is: `http://127.0.0.1:5000`
+The base URL for your backend after deploying at render is: `https://health-system-backend.onrender.com`
 
 ### Programs:
 - `GET /api/programs` - Retrieve all health programs
